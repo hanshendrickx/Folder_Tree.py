@@ -3,7 +3,7 @@
 ## Overview
 A Python-based directory tree visualization tool that generates elegant, icon-decorated directory structures with special handling for project-specific directories.
 
-(c) 2024 Hans Hendrickx - MIT License
+(c) 2024 Hans Hendrickx MD PhD and Karl Hendrickx MSc - MIT License
 In cooperation with v0 AI Assistant
 
 ## Sample Output
