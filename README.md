@@ -6,6 +6,11 @@ A Python-based directory tree visualization tool that generates elegant, icon-de
 (c) 2024 Hans Hendrickx MD PhD and Karl Hendrickx MSc - MIT License
 In cooperation with v0 AI Assistant
 
+(c) 2025 Hans Hendrickx MD PhD and Karl Hendrickx MSc - MIT License
+Run by: Folder_Tree.py --max-depth 1
+REM 1-5?
+
+
 ## Sample Output
 ![Project Tree Generator Sample Output](https://raw.githubusercontent.com/hanshendrickx/Folder_Tree.py/main/Folder-Tree.png)
 
